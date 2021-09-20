@@ -1,0 +1,42 @@
+.content-table {
+  margin-top: 40px;
+  background: #fff;
+  border-radius: 5px;
+  position: relative;
+}
+.table-nav {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.table-nav-search {
+    background: none;
+    border: none;
+    border-bottom: solid 1px #333;
+}
+.table-tail {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 15px;
+    padding-bottom: 0px;
+}
+.table-tail-flip {
+  font-size: 12px;
+  color: #263646;
+}
+.table-tail-title {
+ font-size: 13px;
+ color: #333;
+}
+.table-select-title{
+  font-size: 8px;
+  color: rgb(172, 167, 167);
+}
+#table-nav-select{
+  /* border: none;*/
+  padding: 0px; 
+  border: red 1px solid;
+}
+.el-input__inner {
+  padding: 0px;
+}

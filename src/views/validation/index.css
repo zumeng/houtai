@@ -1,0 +1,17 @@
+ .table-email {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    margin-top: 40px;
+}
+.from-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.register-from,.login-from {
+    width: 49%;
+}
+.Type-from,.Range-from {
+    width: 100%;
+}
